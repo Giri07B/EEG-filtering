@@ -5,7 +5,7 @@ Algorithm reference: Removal of Ocular Artifacts from Electro-encephalogram by a
 
 Data used: Published by Manousos Klados and Panagiotis Bamidis - https://data.mendeley.com/datasets/wb6yvr725d/3
 
-Files Description
+File Description
 1) raw_data.m - Display data used.
 2) claim1.m - This method is easy to implement and stable, converges fast and is suitable for on- line removal of EOG artifacts.
 3) claim2.m - When the filtering algorithm is applied to an EEG recorded at a remote site, e.g. O2, that contains very few EOG artifacts,               the filters are basically shut down and the original EEG simply passes the system without visible changes.
